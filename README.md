@@ -5,7 +5,7 @@ I have spent the past 10 years of my career leading projects across the spectrum
 I have developed an expertise in creating personalized consumer experiences using `recommender systems` in the retail, search, e-commerce and marketing domains, and have designed and built these systems for industry leading brands in the automotive, consumer electronics, retail, and consumer packaged goods industries across North America.
 Most of these leveraged algorithms spanning classical statistics, machine learning, deep learning, natural language processing and developed/deployed on cloud platforms such as AWS, GCP and Azure.
 
-# Areas of Interest
+# Interest Areas
 
 -   Complexity Theory
 -   Adaptive Intelligent Systems
