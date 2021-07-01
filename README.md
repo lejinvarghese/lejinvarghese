@@ -19,8 +19,11 @@ Most of these leveraged algorithms spanning classical statistics, machine learni
 
 # Reading List
 
--   [Homo Deus](https://www.amazon.ca/Homo-Deus-Brief-History-Tomorrow/dp/0771038704)
+-   [GGödel, Escher, Bach: an Eternal Golden Braid](https://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567)
 -   [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819/)
+-   [Reinforcement Learning: An Introduction](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/)
+-   [Chaos and Fractals: New Frontiers of Science](https://www.amazon.ca/Chaos-Fractals-New-Frontiers-Science/dp/1468493965/r)
+-   [Machine Learning Design Patterns](https://www.amazon.ca/Machine-Learning-Design-Patterns-Preparation/dp/1098115783/ref=sr_1_1?dchild=1&keywords=Machine+Learning+Design+Patterns%3A+Solutions+to+Common+Challenges+in+Data+Preparation%2C+Model+Building%2C+and+MLOps)
 -   [Clean Code](https://www.amazon.ca/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 -   [Go Programming Language](https://www.amazon.ca/Programming-Language-Addison-Wesley-Professional-Computing-ebook/dp/B0184N7WWS)
 
