@@ -19,7 +19,7 @@ Most of these leveraged algorithms spanning classical statistics, machine learni
 
 # Reading List
 
--   [GGödel, Escher, Bach: an Eternal Golden Braid](https://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567)
+-   [Gödel, Escher, Bach: an Eternal Golden Braid](https://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567)
 -   [Team Topologies](https://www.amazon.ca/Team-Topologies-Organizing-Business-Technology/dp/1942788819/)
 -   [Reinforcement Learning: An Introduction](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/)
 -   [Chaos and Fractals: New Frontiers of Science](https://www.amazon.ca/Chaos-Fractals-New-Frontiers-Science/dp/1468493965/r)
