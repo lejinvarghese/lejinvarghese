@@ -29,5 +29,4 @@ Most of these leveraged algorithms spanning classical statistics, machine learni
 
 # Active Courses
 
--   [Computer Simulation](https://www.coursera.org/learn/computer-simulations)
--   [Stanford - Machine Learning with Graphs](https://www.youtube.com/watch?v=uEPPnR22fxg&list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-)
+-   [MLOps (Machine Learning Operations) Fundamentals](https://www.coursera.org/learn/mlops-fundamentals/home/welcome)
