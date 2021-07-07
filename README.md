@@ -14,7 +14,7 @@ Most of these leveraged algorithms spanning classical statistics, machine learni
 -   Graph Neural Networks
 -   Recommender Systems
 -   Optimization Algorithms
--   Internet of Things
+-   Internet of Things (IoT)
 -   Edge ML
 
 # Reading List
