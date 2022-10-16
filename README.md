@@ -14,9 +14,9 @@ I am a continuous learner, a data hog, a scientist, an engineer hybrid and an as
 
 # Reading List
 
-[Goodreads](https://www.goodreads.com/lejin)
+- [Goodreads](https://www.goodreads.com/lejin)
 
 # Courses
 
-[Coursera](https://www.coursera.org/user/bc2928e2dc2ded5b43add4898ff94993)
-[Udemy](https://www.udemy.com/user/lejin-rajan/)
+- [Coursera](https://www.coursera.org/user/bc2928e2dc2ded5b43add4898ff94993)
+- [Udemy](https://www.udemy.com/user/lejin-rajan/)
