@@ -12,11 +12,13 @@ I am a continuous learner, a data hog, a scientist, an engineer hybrid and an as
 
 ![interests](figure.png)
 
-# Reading List
+*code that generated this can be found [here](https://github.com/lejinvarghese/ego_networks/tree/master/docs/labs/domain_graph)*.
+
+# Reading
 
 - [Goodreads](https://www.goodreads.com/lejin)
 
-# Courses
+# Learning
 
 - [Coursera](https://www.coursera.org/user/bc2928e2dc2ded5b43add4898ff94993)
 - [Udemy](https://www.udemy.com/user/lejin-rajan/)
