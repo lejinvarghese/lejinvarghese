@@ -20,5 +20,5 @@ I am a continuous learner, a data hog, a scientist, an engineer hybrid and an as
 
 ## Learning
 
-:microscope: [Coursera](https://www.coursera.org/user/bc2928e2dc2ded5b43add4898ff94993)
+:microscope: [Coursera](https://www.coursera.org/user/bc2928e2dc2ded5b43add4898ff94993)\
 :microscope: [Udemy](https://www.udemy.com/user/lejin-rajan/)
