@@ -8,17 +8,17 @@ Most of these solutions leveraged algorithms spanning classical statistics, mach
 
 I am a continuous learner, a data hog, a scientist, an engineer hybrid and an aspiring polymath who's most lately passionate about graph neural networks, recommender systems, optimization algorithms, complexity theory, reinforcement learning and adaptive intelligent systems. I value integrity, innovation and humancentric progress.
 
-# Interests
+## Interests
 
+:construction:
 ![interests](figure.png)
+<sub>code that generated this can be found [here](https://github.com/lejinvarghese/ego_networks/tree/master/docs/labs/domain_graph).</sub>
 
-*code that generated this can be found [here](https://github.com/lejinvarghese/ego_networks/tree/master/docs/labs/domain_graph)*.
+## Reading
 
-# Reading
+:books: [Goodreads](https://www.goodreads.com/lejin)
 
-- [Goodreads](https://www.goodreads.com/lejin)
+## Learning
 
-# Learning
-
-- [Coursera](https://www.coursera.org/user/bc2928e2dc2ded5b43add4898ff94993)
-- [Udemy](https://www.udemy.com/user/lejin-rajan/)
+:microscope: [Coursera](https://www.coursera.org/user/bc2928e2dc2ded5b43add4898ff94993)
+:microscope: [Udemy](https://www.udemy.com/user/lejin-rajan/)
