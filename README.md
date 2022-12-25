@@ -10,7 +10,7 @@ I am a continuous learner, a data hog, a scientist, an engineer hybrid and an as
 
 # Interests
 
-![interests](interests.png)
+![interests](figure.png)
 
 # Reading List
 
