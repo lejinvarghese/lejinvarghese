@@ -1,12 +1,10 @@
 # Lejin Varghese
 
-I have 11 years of experience leading projects across the spectrum of `data science`, `data engineering`, `technology product development` and `systems integrations`. 
+I have 12 years of experience developing data products and solutions in the retail, ecommerce, information retrieval, automotive and marketing domains across the spectrum of `artificial intelligence`, `deep learning`, `machine learning`, `statistical inference`, `causal inference`, `data engineering`, `business intelligence`, and `hybrid cloud platform integrations`.
 
-I have developed an expertise in creating personalized consumer experiences using recommender systems in the retail, search, e-commerce and marketing domains, and have designed and built these systems for industry leading brands in the automotive, consumer electronics, retail, and consumer packaged goods industries across North America. 
+I have specifically developed an expertise in creating personalized experiences on digital platforms for industry leading Forbes 50 brands across several industries.
 
-Most of these solutions leveraged algorithms spanning classical statistics, machine learning, deep learning, natural language processing and developed/deployed on cloud platforms such as AWS, GCP and Azure.
-
-I am a continuous learner, a data hog, a scientist, an engineer hybrid and an aspiring polymath who's most lately passionate about graph neural networks, recommender systems, optimization algorithms, complexity theory, reinforcement learning and adaptive intelligent systems. I value integrity, innovation and humancentric progress.
+I am a continuous learner, a data hog, a scientist, an engineer, a philosopher, an artist and an aspiring polymath who's most lately passionate about adaptive intelligent systems, reinforcement learning, graph neural networks, autonomous vehicles, optimization algorithms, information retrieval, and complexity theory. I value integrity, innovation and humancentric progress.
 
 ## Interests
 
