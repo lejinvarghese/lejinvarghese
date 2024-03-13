@@ -10,7 +10,7 @@ I am a continuous learner, a data hog, a scientist, an engineer, a philosopher, 
 
 :construction:
 ![interests](figure.png)
-<sub>code that generated this can be found [here](https://github.com/lejinvarghese/ego_networks/tree/master/docs/labs/domain_graph).</sub>
+<sub>code that generated this can be found [here](https://github.com/lejinvarghese/ego_networks/tree/master/labs/domain_graph).</sub>
 
 ## Reading
 
