@@ -1,6 +1,6 @@
 # Lejin Varghese
 
-I have 13 years of experience developing data products and solutions in the retail, ecommerce, information retrieval, automotive and marketing domains across the spectrum of `artificial intelligence`, `deep learning`, `machine learning`, `statistical inference`, `causal inference`, `data engineering`, `business intelligence`, and `hybrid cloud platform integrations`.
+I have 14 years of experience developing data products and solutions in the retail, ecommerce, information retrieval, automotive and marketing domains across the spectrum of `artificial intelligence`, `deep learning`, `machine learning`, `statistical inference`, `causal inference`, `data engineering`, `business intelligence`, and `hybrid cloud platform integrations`.
 
 I have specifically developed an expertise in creating personalized experiences on digital platforms for industry leading Forbes 50 brands across several industries.
 
