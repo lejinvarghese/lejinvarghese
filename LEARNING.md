@@ -16,6 +16,7 @@
 ### 📑 Papers & Articles
 - [x] [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)
 - [x] [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025)
+- [x] [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 - [ ] ⏳ [Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems](https://arxiv.org/abs/2504.01990)
 - [ ] ⏳ [Evaluating Agent-based Program Repair at Google](https://arxiv.org/html/2501.07531v1)
 - [ ] ⏳ [ICE-Score: Instructing Large Language Models to Evaluate Code](https://arxiv.org/pdf/2304.14317)
