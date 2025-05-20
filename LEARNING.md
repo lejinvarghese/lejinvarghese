@@ -19,7 +19,8 @@
 - [x] [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf)
 - [ ] ⏳ [Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems](https://arxiv.org/abs/2504.01990)
 - [ ] ⏳ [Evaluating Agent-based Program Repair at Google](https://arxiv.org/html/2501.07531v1)
-- [ ] ⏳ [ICE-Score: Instructing Large Language Models to Evaluate Code](https://arxiv.org/pdf/2304.14317)
+- [ ] [ICE-Score: Instructing Large Language Models to Evaluate Code](https://arxiv.org/pdf/2304.14317)
+- [ ] [Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures](https://arxiv.org/html/2505.09343v1)
 
 
 ### 📚 Books
@@ -29,4 +30,4 @@
 
 ### 🎙️ Podcasts
 - [x] [DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459](https://www.youtube.com/watch?v=_1f-o0nqpEI)
-- [ ] ⏳ [π0: A Foundation Model for Robotics with Sergey Levine - 719](https://www.youtube.com/watch?v=5mY71rGXAkM)
+- [x] [π0: A Foundation Model for Robotics with Sergey Levine - 719](https://www.youtube.com/watch?v=5mY71rGXAkM)
